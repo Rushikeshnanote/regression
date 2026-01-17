@@ -1,0 +1,17 @@
+{
+  "model_type": "Linear Regression",
+  "problem_type": "Regression",
+  "target_variable": "price",
+  "input_feature": [
+    {
+      "name": "area",
+      "type": "numeric",
+      "unit": "sqft",
+      "min": 200,
+      "max": 10000
+    }
+  ],
+  "Output_formate": "INR",
+  "version": "1.0",
+  "created_by": "Rushikesh"
+}
